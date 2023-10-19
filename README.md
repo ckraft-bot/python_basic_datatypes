@@ -5,4 +5,4 @@ This [tutorial](https://youtu.be/kvyT2x7JMps?si=aRzPyizXYonUjFTD) covers the bas
 __Prerequisites & Usuage__
  
 To follow along with this tutorial, you should have a basic understanding of Python programming language and access to Jupyter notebook. You will need to have Python 3.x installed on your computer.
-Installation
+
